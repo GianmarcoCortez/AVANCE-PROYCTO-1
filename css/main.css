@@ -62,14 +62,15 @@ footer p {
 .slogan{
     color:#31B0D5;
     font-family: 'Vollkorn', serif;
-    font-size: 25px;
-    font-weight: 700; 
+    font-size: 20px;
+    font-weight: bold; 
+
 }
 .soluciones{
     color:#000;
     font-family: 'Vollkorn', serif;
-    font-size: 18px;
-    font-weight: 700; 
+    font-size: 15px;
+    font-weight: bold; 
 }
 .parrafo1{
   font-family: 'Open Sans', sans-serif;
